@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+qrcode
+python-stdnum
+textblob
+dnspython
+pydantic[email]
+python-multipart
