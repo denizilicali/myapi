@@ -7,3 +7,4 @@ textblob
 dnspython
 pydantic[email]
 python-multipart
+transformers
